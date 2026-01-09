@@ -1,0 +1,16 @@
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/bin/Debug/net7.0/HR.LeaveManagement.Application.deps.json
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/bin/Debug/net7.0/HR.LeaveManagement.Application.dll
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/bin/Debug/net7.0/HR.LeaveManagement.Application.pdb
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/bin/Debug/net7.0/HR.LeaveManagement.Domain.dll
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/bin/Debug/net7.0/HR.LeaveManagement.Domain.pdb
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.AssemblyInfo.cs
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.sourcelink.json
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.Leave.CEB84392.Up2Date
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.dll
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/obj/Debug/net7.0/refint/HR.LeaveManagement.Application.dll
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/obj/Debug/net7.0/HR.LeaveManagement.Application.pdb
+/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Application/obj/Debug/net7.0/ref/HR.LeaveManagement.Application.dll
