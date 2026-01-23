@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lZtUmYc7r4s=",
+  "dgSpecHash": "w+RprptHz1c=",
   "success": true,
   "projectFilePath": "/Users/anthonyvillegas/RiderProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.Infrastructure/HR.LeaveManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "/Users/anthonyvillegas/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "/Users/anthonyvillegas/.nuget/packages/microsoft.extensions.configuration.binder/7.0.0/microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
     "/Users/anthonyvillegas/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/anthonyvillegas/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "/Users/anthonyvillegas/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/anthonyvillegas/.nuget/packages/microsoft.extensions.options.configurationextensions/7.0.0/microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
     "/Users/anthonyvillegas/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
